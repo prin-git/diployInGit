@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.29f2b84a.chunk.css",
-    "main.js": "/static/js/main.e6bd5681.chunk.js",
-    "main.js.map": "/static/js/main.e6bd5681.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02351b25.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02351b25.js.map",
-    "static/js/2.bb556ff8.chunk.js": "/static/js/2.bb556ff8.chunk.js",
-    "static/js/2.bb556ff8.chunk.js.map": "/static/js/2.bb556ff8.chunk.js.map",
-    "static/js/3.b14e53ea.chunk.js": "/static/js/3.b14e53ea.chunk.js",
-    "static/js/3.b14e53ea.chunk.js.map": "/static/js/3.b14e53ea.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.29f2b84a.chunk.css.map": "/static/css/main.29f2b84a.chunk.css.map",
-    "static/js/2.bb556ff8.chunk.js.LICENSE.txt": "/static/js/2.bb556ff8.chunk.js.LICENSE.txt"
+    "main.css": "/diployInGit/static/css/main.29f2b84a.chunk.css",
+    "main.js": "/diployInGit/static/js/main.e6bd5681.chunk.js",
+    "main.js.map": "/diployInGit/static/js/main.e6bd5681.chunk.js.map",
+    "runtime-main.js": "/diployInGit/static/js/runtime-main.ac18690d.js",
+    "runtime-main.js.map": "/diployInGit/static/js/runtime-main.ac18690d.js.map",
+    "static/js/2.bb556ff8.chunk.js": "/diployInGit/static/js/2.bb556ff8.chunk.js",
+    "static/js/2.bb556ff8.chunk.js.map": "/diployInGit/static/js/2.bb556ff8.chunk.js.map",
+    "static/js/3.b14e53ea.chunk.js": "/diployInGit/static/js/3.b14e53ea.chunk.js",
+    "static/js/3.b14e53ea.chunk.js.map": "/diployInGit/static/js/3.b14e53ea.chunk.js.map",
+    "index.html": "/diployInGit/index.html",
+    "static/css/main.29f2b84a.chunk.css.map": "/diployInGit/static/css/main.29f2b84a.chunk.css.map",
+    "static/js/2.bb556ff8.chunk.js.LICENSE.txt": "/diployInGit/static/js/2.bb556ff8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02351b25.js",
+    "static/js/runtime-main.ac18690d.js",
     "static/js/2.bb556ff8.chunk.js",
     "static/css/main.29f2b84a.chunk.css",
     "static/js/main.e6bd5681.chunk.js"
